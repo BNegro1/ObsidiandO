@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "e48a073458446f05",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d962b104167f077",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a30ad59642f25e0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac26aed6728748e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "122e98547d02a903",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9b5569f8b988a39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "eb6b5937c5bc9d43",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "48e8c2cf8961f87a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4612fcc0788f868e",
+    "type": "split",
+    "children": [
+      {
+        "id": "114276e66d753554",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fd9bc0f8dbf7599",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rol del Psicólog@ Organizacional.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Rol del Psicólog@ Organizacional"
+            }
+          },
+          {
+            "id": "09b1fbba69403b44",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rol del Psicólog@ Organizacional.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Rol del Psicólog@ Organizacional"
+            }
+          },
+          {
+            "id": "380b6b72c0ac0186",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7fe7ab102396bc4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rol del Psicólog@ Organizacional.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Rol del Psicólog@ Organizacional"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": true,
+      "graph:Abrir vista gráfica": true,
+      "canvas:Crear nuevo lienzo": true,
+      "daily-notes:Abrir la nota de hoy": true,
+      "templates:Insertar plantilla": true,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "c9b5569f8b988a39",
+  "lastOpenFiles": [
+    "Pract-Psico-Eva/Evaluación Rol del Psicólogo Organizacional en la Gestión del Talento Humano.md",
+    "Pract-Psico-Eva/Cuestionario Verdadero o Falso (GPT).md",
+    "Pract-Psico-Eva/Dominio Psicología Organizacional.md",
+    "Pract-Psico-Eva/Resumen sobre el Rol del Psicólogo Organizacional en la Gestión del Talento Humano.md",
+    "Pract-Psico-Eva",
+    "2024-10-24.md",
+    "Sin título 2.canvas",
+    "Sin título 1.canvas",
+    "Sin título.canvas",
+    "Untitled.canvas"
+  ]
+}

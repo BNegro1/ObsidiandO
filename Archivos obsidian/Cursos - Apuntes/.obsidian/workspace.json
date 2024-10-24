@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "225fe100f7c4cfda",
+    "type": "split",
+    "children": [
+      {
+        "id": "a24fa7c21b8465b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0452b0098653b501",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "784397b11f2b5170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2cd742232330068d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebac782eedc8b3bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b400097d3d7917f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa2ef55b86b512ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d025d9d7b78dbbc3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f0a46d1f0f14a412",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c6f8c48bfa3c56a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "238a929087a8544d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sin título.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d011f4326ad1c464",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sin título.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14b669c4fcf9931d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d977eaf97501da32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sin título.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "784397b11f2b5170",
+  "lastOpenFiles": [
+    "Sin título.md",
+    "Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn).md",
+    "Pasted image 20231207045543.png",
+    "Pasted image 20231207045416.png",
+    "Pasted image 20231207045256.png",
+    "Pasted image 20231207045218.png",
+    "Pasted image 20231207045202.png",
+    "Pasted image 20231207045142.png",
+    "Pasted image 20231207044818.png",
+    "Pasted image 20231207044748.png",
+    "Análisis de Datos - Curso - Acceso directo.lnk",
+    "Análisis de Datos - Curso/FreeCodeCamp-Pandas-Real-Life-Example/data/sales_data.csv",
+    "Análisis de Datos - Curso/FreeCodeCamp-Pandas-Real-Life-Example/data/sakila.db",
+    "Análisis de Datos - Curso/FreeCodeCamp-Pandas-Real-Life-Example/data/chinook.db",
+    "Análisis de Datos - Curso/FreeCodeCamp-Pandas-Real-Life-Example/README.md",
+    "Análisis de Datos - Curso/FreeCodeCamp-Pandas-Real-Life-Example/Lecture_2.ipynb",
+    "Análisis de Datos - Curso/FreeCodeCamp-Pandas-Real-Life-Example/Lecture_1.ipynb",
+    "Análisis de Datos - Curso/FreeCodeCamp-Pandas-Real-Life-Example/Exercises_2.ipynb",
+    "Análisis de Datos - Curso/FreeCodeCamp-Pandas-Real-Life-Example/Exercises_1.ipynb",
+    "Análisis de Datos - Curso/FreeCodeCamp-Pandas-Real-Life-Example/data",
+    "Análisis de Datos - Curso/FreeCodeCamp-Pandas-Real-Life-Example",
+    "Pasted image 20231207043929.png"
+  ]
+}

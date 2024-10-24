@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "02ce865a5edd3476",
+    "type": "split",
+    "children": [
+      {
+        "id": "1023b8002da99246",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17d87d29ac8802bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resumen JOINS - Walter Cataldo R..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3ca82a8a7a19a82",
+    "type": "split",
+    "children": [
+      {
+        "id": "f41ea5b4bead37c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3420574b15a17f89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c09e680d5a7ffb95",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06dc31c48b4965ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd136fcbc078a3cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a16b2be16863e23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26064c8150f898fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Resumen JOINS - Walter Cataldo R..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82a37851c817a367",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Resumen JOINS - Walter Cataldo R..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "387b02e58e6e0382",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65a8daf34c90e384",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Resumen JOINS - Walter Cataldo R..md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "17d87d29ac8802bd",
+  "lastOpenFiles": [
+    "Resumen JOINS - Walter Cataldo R..md",
+    "sisiejdiedj.md",
+    "Comentarios - Observaciones.md",
+    "Resumen Ética para el trabajo.md"
+  ]
+}

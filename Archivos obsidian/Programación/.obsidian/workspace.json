@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "5b3031f01436638d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0a544060e73173e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7406d6a897d88159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Productoria recursiva.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9ab620365e0d49e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ef99b44961ee094",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21eb06991252a101",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5925b41c3288cb3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e243cf5dfbad3af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "143b01fb8f7fa24e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9b8a9f0fd09aa4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b03576c202f42a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Productoria recursiva.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6683098035ec4866",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Productoria recursiva.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37a63e5783c3b72e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c9f1df106a562842",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Productoria recursiva.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "7406d6a897d88159",
+  "lastOpenFiles": [
+    "Codigop.md",
+    "pako_eNqNlE1y2jAUx6_yRt20M2TRJnQ6XnQGMF9JoOEzSQ0LxRagiS15ZJGG2hygx-gBeoFuuVhlyRCbwozZGL__733qWTFyuUeQhRY-_-GusJAwtmcM1K_mdBl1KZ_DxcVXqL-_JUQAB1cQLAALd0Vf-AeD1jWS7H69UskTaDia9bDkEZBXGknCJInmBbgpBBcJfHdalCnFaA2t2XGPR.png",
+    "Productoria recursiva.md"
+  ]
+}
